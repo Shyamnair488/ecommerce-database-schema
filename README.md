@@ -54,7 +54,3 @@ To use this schema:
 ![ERD](schema/schema_diagram.svg)
 
 ---
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.

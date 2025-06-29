@@ -51,7 +51,7 @@ To use this schema:
 
 ## 🖼️ ERD Preview
 
-![ERD](schema/schema-diagram.svg)
+![ERD](schema/schema_diagram.svg)
 
 ---
 
